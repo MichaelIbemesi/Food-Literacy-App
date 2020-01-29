@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Food Connoisseur</string>
+    <string name="play_button">Play</string>
+    <string name="instructions">Pick the three items which best fit the scenario!</string>
+    <string name="reset_button">Reset</string>
+    <string name="submit_button">Submit</string>
+    <string name="search_button">Search</string>
+    <string name="continue_button">Next Scenario?</string>
+    <string name="back_button">Back to Avatar</string>
+    <string name="success_text">Scenario complete! All foods correct.</string>
+    <string name="gained_points_text">10 points gained!</string>
+    <string name="lost_points_text">10 points lost!</string>
+    <string name="fail_text">Scenario failed! Incorrect foods chosen.</string>
+    <string name="no_selection_text">Please select three foods.</string>
+    <string name="ok_button">Ok</string>
+    <string name="reset_text">Choices have been reset.</string>
+    <string name="already_selected_text">This food has already been selected.</string>
+    <string name="full_array_text">Three items have already been selected.</string>
+    <string name="user_score">Score:</string>
+    <string name="glossary_Search">Search for Food (e.g. apple)</string>
+    <string name="food_hint">Food Name.</string>
+    <string name="glossary_text">Nutrition glossary</string>
+    <string name="glossary">Glossary</string>
+    <string name="protein">Protein</string>
+    <string name="fat">Fat</string>
+    <string name="sugar">Sugar</string>
+    <string name="carbs">Carbohydrates</string>
+    <string name="fibre">Fibre</string>
+    <string name="calories">Calories</string>
+    <string name="sodium">Sodium</string>
+    <string name="potassium">Potassium</string>
+    <string name="cholesterol">Cholesterol</string>
+</resources>
